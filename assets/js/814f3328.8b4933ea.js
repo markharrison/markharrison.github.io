@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmarkharrison=self.webpackChunkmarkharrison||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Green Software Engineering","permalink":"/blog/green-software-engineering"},{"title":"AppDev Trends","permalink":"/blog/appdev-trends"}]}')}}]);
