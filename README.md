@@ -1,4 +1,4 @@
-# markharrison.github.io2 | markharrison.io
+# markharrison.github.io | markharrison.io
 
 <https://markharrison.io>
 
