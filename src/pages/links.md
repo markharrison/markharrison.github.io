@@ -14,4 +14,4 @@ My videos
 
 My articles 
 
-- <a href="https://markharrison.io/appdevtrends" target="_self">AppDev Trends/a>
+- <a href="https://markharrison.io/appdevtrends" target="_self">AppDev Trends</a>
