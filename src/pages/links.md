@@ -11,3 +11,7 @@ My sites:
 My videos 
 
 - [Mark Harrison - Azure TechTalks](https://aka.ms/markharrisonvideo)
+
+My articles 
+
+- [AppDev Trends](./appdevtrends)
