@@ -14,7 +14,7 @@ function HomepageHeader() {
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div >
-          <img src="https://github.com/markharrison.png" className={styles.profileImage}   />
+          <img alt="Mark Harrison" src="https://github.com/markharrison.png" className={styles.profileImage}   />
         </div>
       </div>
     </header>
