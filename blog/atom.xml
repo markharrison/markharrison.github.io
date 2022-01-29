@@ -13,11 +13,12 @@
         <link href="https://markharrison.io/blog/green-software-engineering"/>
         <updated>2021-08-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I recently presented ‘Green Software Engineering’ at a community event. A couple of days later the IPCC (Intergovernmental Panel on Climate Change) released a study that highlighted climate change is widespread, rapid, and intensifying, and some trends are now irreversible. The United Nations called it a “code red for humanity” and a catastrophe can only be avoided if the world acts fast.]]></summary>
-        <content type="html"><![CDATA[<p>I recently presented ‘Green Software Engineering’ at a community event. A couple of days later the IPCC (Intergovernmental Panel on Climate Change) released a study that highlighted climate change is widespread, rapid, and intensifying, and some trends are now irreversible. The United Nations called it a “code red for humanity” and a catastrophe can only be avoided if the world acts fast.</p><p><a href="https://cloudblogs.microsoft.com/industry-blog/en-gb/technetuk/2021/08/19/sustainability-and-green-software-engineering/">Read here</a></p>]]></content>
+        <content type="html"><![CDATA[<p>I recently presented ‘Green Software Engineering’ at a community event. A couple of days later the IPCC (Intergovernmental Panel on Climate Change) released a study that highlighted climate change is widespread, rapid, and intensifying, and some trends are now irreversible. The United Nations called it a “code red for humanity” and a catastrophe can only be avoided if the world acts fast.</p><p><a href="https://cloudblogs.microsoft.com/industry-blog/en-gb/technetuk/2021/08/19/sustainability-and-green-software-engineering/" target="_blank" rel="noopener noreferrer">Read here</a></p>]]></content>
         <author>
             <name>Mark Harrison</name>
             <uri>https://github.com/markharrison</uri>
         </author>
+        <category label="appdev" term="appdev"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[AppDev Trends]]></title>
@@ -25,10 +26,11 @@
         <link href="https://markharrison.io/blog/appdev-trends"/>
         <updated>2021-02-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hello! I’m a Microsoft UK Azure AppDev Specialist and below I’ll be sharing what I do and why I do it, as well as touch on the current AppDev trends I see and the themes that I’m frequently asked to cover.]]></summary>
-        <content type="html"><![CDATA[<p>Hello! I’m a Microsoft UK Azure AppDev Specialist and below I’ll be sharing what I do and why I do it, as well as touch on the current AppDev trends I see and the themes that I’m frequently asked to cover.</p><p><a href="https://markharrison.io/appdevtrends">Read here</a></p>]]></content>
+        <content type="html"><![CDATA[<p>Hello! I’m a Microsoft UK Azure AppDev Specialist and below I’ll be sharing what I do and why I do it, as well as touch on the current AppDev trends I see and the themes that I’m frequently asked to cover.</p><p><a href="https://markharrison.io/appdevtrends" target="_blank" rel="noopener noreferrer">Read here</a></p>]]></content>
         <author>
             <name>Mark Harrison</name>
             <uri>https://github.com/markharrison</uri>
         </author>
+        <category label="appdev" term="appdev"/>
     </entry>
 </feed>
