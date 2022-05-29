@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmarkharrison=self.webpackChunkmarkharrison||[]).push([[9],{2379:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/appdev","name":"appdev","count":2,"permalink":"/blog/tags/appdev"}')}}]);
