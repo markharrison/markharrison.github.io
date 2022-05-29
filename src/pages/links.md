@@ -15,3 +15,4 @@ My videos
 My articles 
 
 - <a href="https://markharrison.io/appdev-trends" target="_self">AppDev Trends</a>
+- <a href="https://markharrison.io/securing-applications" target="_self">Securing Applications</a>
