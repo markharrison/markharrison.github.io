@@ -59,4 +59,12 @@
         </author>
         <category label="appdev" term="appdev"/>
     </entry>
+    <entry>
+        <title type="html"><![CDATA[RSS Feed 🚀]]></title>
+        <id>feed</id>
+        <link href="https://markharrison.io/blog/feed"/>
+        <updated>2021-01-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[- RSS Feed]]></summary>
+        <content type="html"><![CDATA[<ul><li><a href="https://markharrison.io/blog/rss.xml" target="_blank" rel="noopener noreferrer">RSS Feed</a>  </li><li><a href="https://markharrison.io/blog/atom.xml" target="_blank" rel="noopener noreferrer">Atom Feed</a></li></ul>]]></content>
+    </entry>
 </feed>
