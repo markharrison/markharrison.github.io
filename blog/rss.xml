@@ -14,7 +14,7 @@
             <guid>container-apps</guid>
             <pubDate>Tue, 07 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Annouced at the Microsoft Build Conference was the general availability of Azure Container Apps.]]></description>
-            <content:encoded><![CDATA[<p><img loading="lazy" src="/assets/images/containerapps-d4314502c94c760bce37d01feb091b28.png" width="1575" height="394" class="img_ev3q"></p><p>Annouced at the Microsoft Build Conference was the general availability of Azure Container Apps.  </p><p>This is a fully managed serverless container service for building and deploying modern apps at scale, and empowers developers to focus on the business logic of their apps rather than on cloud infrastructure management.</p><p>I have written a hands-on-lab to try out Azure Container Apps.</p><p><a href="https://markharrison.io/lab-azure-container-apps" target="_blank" rel="noopener noreferrer">Read here</a>.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p><img loading="lazy" src="/assets/images/containerapps-d4314502c94c760bce37d01feb091b28.png" width="1575" height="394" class="img_ev3q"></p><p>Annouced at the Microsoft Build Conference was the general availability of Azure Container Apps.  </p><p>This is a fully managed serverless container service for building and deploying modern apps at scale, and empowers developers to focus on the business logic of their apps rather than on cloud infrastructure management.</p><p>I have written a hands-on-lab to try out Azure Container Apps.</p><p><a href="https://markharrison.io/lab-azure-container-apps" target="_blank" rel="noopener noreferrer">Read here</a></p>]]></content:encoded>
             <category>appdev</category>
         </item>
         <item>
