@@ -14,4 +14,4 @@ This is a fully managed serverless container service for building and deploying 
 
 I have written a hands-on-lab to try out Azure Container Apps.
 
-[Read here](https://markharrison.io/lab-azure-container-apps).
+[Read here](https://markharrison.io/lab-azure-container-apps)
