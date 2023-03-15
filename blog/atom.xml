@@ -9,7 +9,7 @@
     <icon>https://markharrison.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Azure Container Apps]]></title>
-        <id>container-apps</id>
+        <id>https://markharrison.io/blog/container-apps</id>
         <link href="https://markharrison.io/blog/container-apps"/>
         <updated>2022-06-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Announced at the Microsoft Build Conference was the general availability of Azure Container Apps.]]></summary>
@@ -22,7 +22,7 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Securing Applications]]></title>
-        <id>securing-applications</id>
+        <id>https://markharrison.io/blog/securing-applications</id>
         <link href="https://markharrison.io/blog/securing-applications"/>
         <updated>2022-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[It was a pleasure to present 'Securing Applications' this week at Build UK.  Furthermore, it was fantastic to see so many people at Microsoft campus - and to know we are now back doing in-person events after the recent difficult and disruptive times.]]></summary>
@@ -35,7 +35,7 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Green Software Engineering]]></title>
-        <id>green-software-engineering</id>
+        <id>https://markharrison.io/blog/green-software-engineering</id>
         <link href="https://markharrison.io/blog/green-software-engineering"/>
         <updated>2021-08-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I recently presented ‘Green Software Engineering’ at a community event. A couple of days later the IPCC (Intergovernmental Panel on Climate Change) released a study that highlighted climate change is widespread, rapid, and intensifying, and some trends are now irreversible. The United Nations called it a “code red for humanity” and a catastrophe can only be avoided if the world acts fast.]]></summary>
@@ -48,7 +48,7 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[AppDev Trends]]></title>
-        <id>appdev-trends</id>
+        <id>https://markharrison.io/blog/appdev-trends</id>
         <link href="https://markharrison.io/blog/appdev-trends"/>
         <updated>2021-02-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hello! I’m a Microsoft UK Azure AppDev Specialist and below I’ll be sharing what I do and why I do it, as well as touch on the current AppDev trends I see and the themes that I’m frequently asked to cover.]]></summary>
@@ -61,7 +61,7 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[RSS Feed 🚀]]></title>
-        <id>feed</id>
+        <id>https://markharrison.io/blog/feed</id>
         <link href="https://markharrison.io/blog/feed"/>
         <updated>2021-01-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[- RSS Feed]]></summary>
