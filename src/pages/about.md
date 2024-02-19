@@ -5,7 +5,7 @@ title: About
 
 Mark Harrison - Azure AppDev Specialist  
 
-Experienced Microsoft sales specialist with a wide and diverse range of technical skills, expertise and a wealth of customer facing experience.   Accomplished twenty-two years in Microsoft as a solution sales / technical specialist and prior to that worked for seventeen years for systems integrators in all areas of the software lifecycle.
+Experienced Microsoft sales specialist with a wide and diverse range of technical skills, expertise and a wealth of customer facing experience.   Accomplished twenty-four years in Microsoft as a solution sales / technical specialist and prior to that worked for seventeen years for systems integrators in all areas of the software lifecycle.
 
 My purpose ...
 
