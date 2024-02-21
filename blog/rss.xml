@@ -4,10 +4,21 @@
         <title>Mark Harrison Blog</title>
         <link>https://markharrison.io/blog</link>
         <description>Mark Harrison Blog</description>
-        <lastBuildDate>Tue, 07 Jun 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Visual Studio EA Benefits]]></title>
+            <link>https://markharrison.io/blog/visualstudio-ea-benefits</link>
+            <guid>https://markharrison.io/blog/visualstudio-ea-benefits</guid>
+            <pubDate>Sat, 24 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[There are several ways to buy Visual Studio.  Buying on an EA shows long term commitment and is rewarded with benefits ... this also offers the opportunity to get GitHub Enterprise for just 1p per month.]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" src="https://markharrison.io/faq-visualstudio/assets/images/visual-studio-logo-b024ef4fd81eb63e712e936c471cbfa5.jpg" alt="" class="img_ev3q"></p>
+<p>There are several ways to buy Visual Studio.  Buying on an EA shows long term commitment and is rewarded with benefits ... this also offers the opportunity to get GitHub Enterprise for just 1p per month.</p>
+<p><a href="https://markharrison.io/faq-visualstudio/eabenefits" target="_blank" rel="noopener noreferrer">Read here</a></p>]]></content:encoded>
+            <category>appdev</category>
+        </item>
         <item>
             <title><![CDATA[Azure Container Apps]]></title>
             <link>https://markharrison.io/blog/container-apps</link>

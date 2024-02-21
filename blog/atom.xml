@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://markharrison.io/blog</id>
     <title>Mark Harrison Blog</title>
-    <updated>2022-06-07T00:00:00.000Z</updated>
+    <updated>2024-02-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://markharrison.io/blog"/>
     <subtitle>Mark Harrison Blog</subtitle>
     <icon>https://markharrison.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Visual Studio EA Benefits]]></title>
+        <id>https://markharrison.io/blog/visualstudio-ea-benefits</id>
+        <link href="https://markharrison.io/blog/visualstudio-ea-benefits"/>
+        <updated>2024-02-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are several ways to buy Visual Studio.  Buying on an EA shows long term commitment and is rewarded with benefits ... this also offers the opportunity to get GitHub Enterprise for just 1p per month.]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://markharrison.io/faq-visualstudio/assets/images/visual-studio-logo-b024ef4fd81eb63e712e936c471cbfa5.jpg" alt="" class="img_ev3q"></p>
+<p>There are several ways to buy Visual Studio.  Buying on an EA shows long term commitment and is rewarded with benefits ... this also offers the opportunity to get GitHub Enterprise for just 1p per month.</p>
+<p><a href="https://markharrison.io/faq-visualstudio/eabenefits" target="_blank" rel="noopener noreferrer">Read here</a></p>]]></content>
+        <author>
+            <name>Mark Harrison</name>
+            <uri>https://github.com/markharrison</uri>
+        </author>
+        <category label="appdev" term="appdev"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azure Container Apps]]></title>
         <id>https://markharrison.io/blog/container-apps</id>
