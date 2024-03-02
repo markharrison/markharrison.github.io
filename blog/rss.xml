@@ -4,10 +4,23 @@
         <title>Mark Harrison Blog</title>
         <link>https://markharrison.io/blog</link>
         <description>Mark Harrison Blog</description>
-        <lastBuildDate>Sat, 24 Feb 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Mar 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Github Copilot]]></title>
+            <link>https://markharrison.io/blog/github-copilot</link>
+            <guid>https://markharrison.io/blog/github-copilot</guid>
+            <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[GitHub Copilot is your AI pair programmer. It uses the OpenAI Codex to suggest code and entire functions in real-time, from within the editor.]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" src="https://markharrison.io/assets/images/containerapps-d4314502c94c760bce37d01feb091b28.png" width="1575" height="394" class="img_ev3q"></p>
+<p>GitHub Copilot is your AI pair programmer. It uses the OpenAI Codex to suggest code and entire functions in real-time, from within the editor.</p>
+<p>Trained on billions of lines of code, GitHub Copilot turns natural language prompts into coding suggestions across dozens of languages.</p>
+<p>I have written a hands-on-lab to try out GitHub Copilot.</p>
+<p><a href="https://markharrison.io/lab-github-copilot" target="_blank" rel="noopener noreferrer">Read here</a></p>]]></content:encoded>
+            <category>appdev</category>
+        </item>
         <item>
             <title><![CDATA[Visual Studio EA Benefits]]></title>
             <link>https://markharrison.io/blog/visualstudio-ea-benefits</link>
