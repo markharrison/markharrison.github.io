@@ -1,6 +1,6 @@
 ---
 slug: github-copilot
-title: Github Copilot
+title: GitHub Copilot
 authors: [markharrison]
 tags: [appdev]
 date: 2024/3/2
