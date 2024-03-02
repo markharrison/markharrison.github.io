@@ -6,7 +6,7 @@ tags: [appdev]
 date: 2024/3/2
 ---
 
-![](images/containerapps.png)
+![](images/githubcopilot.png)
 
 GitHub Copilot is your AI pair programmer. It uses the OpenAI Codex to suggest code and entire functions in real-time, from within the editor.
 
