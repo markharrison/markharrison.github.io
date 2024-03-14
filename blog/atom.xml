@@ -13,7 +13,7 @@
         <link href="https://markharrison.io/blog/github-copilot"/>
         <updated>2024-03-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[GitHub Copilot is your AI pair programmer. It uses the OpenAI Codex to suggest code and entire functions in real-time, from within the editor.]]></summary>
-        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://markharrison.io/assets/images/githubcopilot-20bdcb12662daa5d66e740381c9dd9e7.png" width="1914" height="442" class="img_ev3q"></p>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://markharrison.io/assets/images/githubcopilot-d23ae4a131a687ed1f0ca3e1121520af.png" width="1280" height="314" class="img_ev3q"></p>
 <p>GitHub Copilot is your AI pair programmer. It uses the OpenAI Codex to suggest code and entire functions in real-time, from within the editor.</p>
 <p>Trained on billions of lines of code, GitHub Copilot turns natural language prompts into coding suggestions across dozens of languages.</p>
 <p>I have written a hands-on-lab to try out GitHub Copilot.</p>
