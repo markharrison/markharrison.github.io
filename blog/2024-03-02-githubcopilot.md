@@ -1,6 +1,6 @@
 ---
 slug: github-copilot
-title: GitHub Copilot
+title: GitHub Copilot Hands-on-Lab
 authors: [markharrison]
 tags: [appdev]
 date: 2024/3/2
