@@ -14,8 +14,9 @@ My videos
 
 My articles 
 
-- <a href="https://markharrison.io/appdev-trends" target="_self">AppDev Trends</a>
+- <a href="https://markharrison.io/doc-platform-engineering" target="_self">Empowering Developers with Platform Engineering</a>
 - <a href="https://markharrison.io/securing-applications" target="_self">Securing Applications</a>
+- <a href="https://markharrison.io/appdev-trends" target="_self">AppDev Trends</a>
 
 FAQ
 
