@@ -3,6 +3,7 @@ title: Labs
 ---
 # Hands on Labs
 
+- [DotNet Aspire](https://markharrison.io/lab-dotnet-aspire/)
 - [GitHub Copilot](https://markharrison.io/lab-github-copilot/)
 - [Azure API Management](https://aka.ms/apimlab)
 - <a href="https://markharrison.io/lab-azure-devops" target="_self">Azure DevOps</a>
