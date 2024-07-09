@@ -2,18 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://markharrison.io/blog</id>
     <title>Mark Harrison Blog</title>
-    <updated>2024-03-26T00:00:00.000Z</updated>
+    <updated>2024-07-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://markharrison.io/blog"/>
     <subtitle>Mark Harrison Blog</subtitle>
     <icon>https://markharrison.io/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[.NET Aspire Hands-on-Lab]]></title>
+        <id>https://markharrison.io/blog/dotnet-aspire</id>
+        <link href="https://markharrison.io/blog/dotnet-aspire"/>
+        <updated>2024-07-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[dotnetaspire]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="dotnetaspire" src="https://markharrison.io/assets/images/dotnetaspire-3001511975d2913ebe45bd66f29a2f9a.jpg" width="2000" height="491" class="img_ev3q"></p>
+<p>Modern applications require robust capabilities like observability, resiliency, scalability, and manageability to meet user expectations and operational demands. These features ensure applications can adapt, recover from failures, handle increasing loads, and remain easy to monitor and maintain over time.</p>
+<p>.NET includes extensive functionality designed to meet these crucial requirements. Yet, its richness and versatility may initially seem daunting, presenting a challenge for developers aiming to harness its full capabilities. The array of choices available can be overwhelming without defined guidance or established best practices.</p>
+<p>To streamline adoption and ensure successful outcomes, there's a growing need for well-defined paths to follow—what some call "paved paths to success". These paths provide developers with proven methodologies, recommended practices, and predefined configurations that simplify initial setup and guide ongoing development.</p>
+<p>.NET Aspire is designed to enhance the development of .NET cloud-native apps. It offers a consistent and opinionated set of tools and patterns to streamline the building and running of distributed applications.</p>
+<p>I have written a hands-on-lab to try out .NET Aspire.</p>
+<p><a href="https://markharrison.io/lab-dotnet-aspire/" target="_blank" rel="noopener noreferrer">Read here</a></p>]]></content>
+        <author>
+            <name>Mark Harrison</name>
+            <uri>https://github.com/markharrison</uri>
+        </author>
+        <category label="appdev" term="appdev"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Empowering Developers with Platform Engineering]]></title>
         <id>https://markharrison.io/blog/platform-engineering</id>
         <link href="https://markharrison.io/blog/platform-engineering"/>
         <updated>2024-03-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Gartner predicts that by 2026, 80% of large software engineering organizations will have established platform engineering teams. But, some critics argue that Platform Engineering presents few new ideas, contending it's merely a rebranding of concepts that have been around for some time, with good marketing making it appear cool.]]></summary>
-        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://markharrison.io/assets/images/platformengineering-d0fe9708791c8e40bb4a5f1deb6a44fe.png" width="1575" height="394" class="img_ev3q"></p>
+        <summary type="html"><![CDATA[platformengineering]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="platformengineering" src="https://markharrison.io/assets/images/platformengineering-d0fe9708791c8e40bb4a5f1deb6a44fe.png" width="1575" height="394" class="img_ev3q"></p>
 <p>Gartner predicts that by 2026, 80% of large software engineering organizations will have established platform engineering teams. But, some critics argue that Platform Engineering presents few new ideas, contending it's merely a rebranding of concepts that have been around for some time, with good marketing making it appear cool.</p>
 <p>So divergent perspectives - lets take a look at this evolving domain and see how it will (supposedly) empower developers ...</p>
 <p><a href="https://markharrison.io/doc-platform-engineering/" target="_blank" rel="noopener noreferrer">Read here</a></p>]]></content>
@@ -28,8 +47,8 @@
         <id>https://markharrison.io/blog/github-copilot</id>
         <link href="https://markharrison.io/blog/github-copilot"/>
         <updated>2024-03-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GitHub Copilot is your AI pair programmer. It uses the OpenAI Codex to suggest code and entire functions in real-time, from within the editor.]]></summary>
-        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://markharrison.io/assets/images/githubcopilot-d23ae4a131a687ed1f0ca3e1121520af.png" width="1280" height="314" class="img_ev3q"></p>
+        <summary type="html"><![CDATA[githubcopilot]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="githubcopilot" src="https://markharrison.io/assets/images/githubcopilot-d23ae4a131a687ed1f0ca3e1121520af.png" width="1280" height="314" class="img_ev3q"></p>
 <p>GitHub Copilot is your AI pair programmer. It uses the OpenAI Codex to suggest code and entire functions in real-time, from within the editor.</p>
 <p>Trained on billions of lines of code, GitHub Copilot turns natural language prompts into coding suggestions across dozens of languages.</p>
 <p>I have written a hands-on-lab to try out GitHub Copilot.</p>
@@ -45,8 +64,8 @@
         <id>https://markharrison.io/blog/visualstudio-ea-benefits</id>
         <link href="https://markharrison.io/blog/visualstudio-ea-benefits"/>
         <updated>2024-02-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Customers who have Enterprise Agreements (EA) with Microsoft are eligible to purchase a subscription offer that brings together Visual Studio standard subscriptions and GitHub Enterprise. It's the easy and economical way for Visual Studio subscribers to acquire GitHub Enterprise.]]></summary>
-        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://markharrison.io/assets/images/visualstudio-20bdcb12662daa5d66e740381c9dd9e7.png" width="1914" height="442" class="img_ev3q"></p>
+        <summary type="html"><![CDATA[visualstudio]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="visualstudio" src="https://markharrison.io/assets/images/visualstudio-20bdcb12662daa5d66e740381c9dd9e7.png" width="1914" height="442" class="img_ev3q"></p>
 <p>Customers who have Enterprise Agreements (EA) with Microsoft are eligible to purchase a subscription offer that brings together Visual Studio standard subscriptions and GitHub Enterprise. It's the easy and economical way for Visual Studio subscribers to acquire GitHub Enterprise.</p>
 <p><a href="https://markharrison.io/faq-visualstudio/eabenefits" target="_blank" rel="noopener noreferrer">Read here</a></p>]]></content>
         <author>
@@ -60,8 +79,8 @@
         <id>https://markharrison.io/blog/container-apps</id>
         <link href="https://markharrison.io/blog/container-apps"/>
         <updated>2022-06-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Announced at the Microsoft Build Conference was the general availability of Azure Container Apps.]]></summary>
-        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://markharrison.io/assets/images/containerapps-d4314502c94c760bce37d01feb091b28.png" width="1575" height="394" class="img_ev3q"></p>
+        <summary type="html"><![CDATA[containerapps]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="containerapps" src="https://markharrison.io/assets/images/containerapps-d4314502c94c760bce37d01feb091b28.png" width="1575" height="394" class="img_ev3q"></p>
 <p>Announced at the Microsoft Build Conference was the general availability of Azure Container Apps.</p>
 <p>This is a fully managed serverless container service for building and deploying modern apps at scale, and empowers developers to focus on the business logic of their apps rather than on cloud infrastructure management.</p>
 <p>I have written a hands-on-lab to try out Azure Container Apps.</p>
@@ -77,8 +96,8 @@
         <id>https://markharrison.io/blog/securing-applications</id>
         <link href="https://markharrison.io/blog/securing-applications"/>
         <updated>2022-05-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It was a pleasure to present 'Securing Applications' this week at Build UK.  Furthermore, it was fantastic to see so many people at Microsoft campus - and to know we are now back doing in-person events after the recent difficult and disruptive times.]]></summary>
-        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://markharrison.io/assets/images/secapps-7f3d154bc249fadbd42a46b1ad6d3cd2.png" width="1575" height="394" class="img_ev3q"></p>
+        <summary type="html"><![CDATA[secapps]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="secapps" src="https://markharrison.io/assets/images/secapps-7f3d154bc249fadbd42a46b1ad6d3cd2.png" width="1575" height="394" class="img_ev3q"></p>
 <p>It was a pleasure to present 'Securing Applications' this week at Build UK.  Furthermore, it was fantastic to see so many people at Microsoft campus - and to know we are now back doing in-person events after the recent difficult and disruptive times.</p>
 <p>I have written up the content from the session.</p>
 <p><a href="https://markharrison.io/securing-applications" target="_blank" rel="noopener noreferrer">Read here</a> or <a href="https://cloudblogs.microsoft.com/industry-blog/en-gb/technetuk/2022/06/07/considerations-for-securing-your-applications/" target="_blank" rel="noopener noreferrer">Read here</a></p>
@@ -94,8 +113,8 @@
         <id>https://markharrison.io/blog/green-software-engineering</id>
         <link href="https://markharrison.io/blog/green-software-engineering"/>
         <updated>2021-08-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I recently presented ‘Green Software Engineering’ at a community event. A couple of days later the IPCC (Intergovernmental Panel on Climate Change) released a study that highlighted climate change is widespread, rapid, and intensifying, and some trends are now irreversible. The United Nations called it a “code red for humanity” and a catastrophe can only be avoided if the world acts fast.]]></summary>
-        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://markharrison.io/assets/images/gse-64e5e60126e3b034508b2dcfc1682bcb.png" width="1575" height="394" class="img_ev3q"></p>
+        <summary type="html"><![CDATA[gse]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="gse" src="https://markharrison.io/assets/images/gse-64e5e60126e3b034508b2dcfc1682bcb.png" width="1575" height="394" class="img_ev3q"></p>
 <p>I recently presented ‘Green Software Engineering’ at a community event. A couple of days later the IPCC (Intergovernmental Panel on Climate Change) released a study that highlighted climate change is widespread, rapid, and intensifying, and some trends are now irreversible. The United Nations called it a “code red for humanity” and a catastrophe can only be avoided if the world acts fast.</p>
 <p><a href="https://cloudblogs.microsoft.com/industry-blog/en-gb/technetuk/2021/08/19/sustainability-and-green-software-engineering/" target="_blank" rel="noopener noreferrer">Read here</a></p>
 <p><a href="https://www.youtube.com/watch?v=Tcvr30NRWmA" target="_blank" rel="noopener noreferrer">On-demand video</a></p>]]></content>
@@ -110,8 +129,8 @@
         <id>https://markharrison.io/blog/appdev-trends</id>
         <link href="https://markharrison.io/blog/appdev-trends"/>
         <updated>2021-02-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hello! I’m a Microsoft UK Azure AppDev Specialist and below I’ll be sharing what I do and why I do it, as well as touch on the current AppDev trends I see and the themes that I’m frequently asked to cover.]]></summary>
-        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://markharrison.io/assets/images/appdevtrends-0eafc2c4cf6dfdc6253fa819299916dc.png" width="1575" height="394" class="img_ev3q"></p>
+        <summary type="html"><![CDATA[appdevtrends]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="appdevtrends" src="https://markharrison.io/assets/images/appdevtrends-0eafc2c4cf6dfdc6253fa819299916dc.png" width="1575" height="394" class="img_ev3q"></p>
 <p>Hello! I’m a Microsoft UK Azure AppDev Specialist and below I’ll be sharing what I do and why I do it, as well as touch on the current AppDev trends I see and the themes that I’m frequently asked to cover.</p>
 <p><a href="https://markharrison.io/appdev-trends" target="_blank" rel="noopener noreferrer">Read here</a></p>]]></content>
         <author>
