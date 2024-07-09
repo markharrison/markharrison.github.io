@@ -6,7 +6,7 @@ tags: [appdev]
 date: 2022/6/7
 ---
 
-![](images/containerapps.png)
+![containerapps](images/containerapps.png)
 
 Announced at the Microsoft Build Conference was the general availability of Azure Container Apps.  
 
