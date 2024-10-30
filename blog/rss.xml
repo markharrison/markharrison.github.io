@@ -22,8 +22,8 @@
 <ul>
 <li><strong>Messy, Unmanaged Codebases</strong>: Poorly organized or outdated code can lead to frequent bugs, making it difficult to extend the application with new features.</li>
 <li><strong>Loss of Knowledge</strong>: Developers who originally built the system may no longer be around, leaving the current team to deal with undocumented code, which hampers problem-solving.</li>
-<li><strong>Outdated Technology</strong>: Sticking with old frameworks, libraries, or operating systems increases security risks and makes future updates challenging as vendor support dwindles.</li>
-<li><strong>On-Premise Infrastructure</strong>: Managing on-prem hardware requires constant attention—patching systems, securing networks, and maintaining backups. This is time-consuming and diverts focus from innovation.</li>
+<li><strong>Outdated Technology</strong>: Sticking with old frameworks, libraries, or operating systems increases security risks and makes future updates challenging as owner support dwindles.</li>
+<li><strong>On-Premise Infrastructure</strong>: Managing on-prem hardware requires constant attention—patching systems, securing networks, and maintaining backups.</li>
 </ul>
 <p>These factors drain time and energy, forcing teams to focus on maintenance instead of moving the organisation forward.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="clearing-technical-debt-to-unlock-innovation">Clearing Technical Debt to Unlock Innovation<a href="https://markharrison.io/blog/technical-debt-v-innovation#clearing-technical-debt-to-unlock-innovation" class="hash-link" aria-label="Direct link to Clearing Technical Debt to Unlock Innovation" title="Direct link to Clearing Technical Debt to Unlock Innovation">​</a></h3>
@@ -32,8 +32,8 @@
 <li><strong>Faster Feature Development</strong>: With a clean and modern codebase, developers can more easily add new functionality, improving time-to-market for new features.</li>
 <li><strong>Improved Security and Stability</strong>: Modernizing outdated technology removes vulnerabilities and reduces downtime, giving teams confidence to innovate without fearing breakdowns.</li>
 <li><strong>Cloud-Native Transformation</strong>: Moving to the cloud using serverless or cloud-native technologies reduces the burden of infrastructure management and delivers scalable, cost-efficient software.</li>
-<li><strong>Proven Tools and Frameworks</strong>: By adopting up-to-date libraries, SDKs, and frameworks, teams can leverage modern, secure solutions that are actively maintained. This reduces the time spent solving problems that have already been solved elsewhere.</li>
-<li><strong>Streamlined Processes with DevSecOps</strong>: Implementing DevSecOps ensures security is integrated into the development cycle, while automation accelerates delivery, reduces errors, and improves overall software quality.</li>
+<li><strong>Proven Tools and Frameworks</strong>: By adopting up-to-date libraries, SDKs, and frameworks, teams can leverage modern, secure solutions that are actively maintained. This reduces the time spent on problems that have already been solved elsewhere.</li>
+<li><strong>Automation and Left-Shift Security</strong>: Implementing platform engineering and DevSecOps practices ensures that teams can streamline operations, automate repetitive tasks, and integrate security throughout the development cycle. This accelerates delivery, reduces errors, and enables the development of higher-quality software.</li>
 </ul>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="app-modernization-reclaiming-time-for-innovation">App Modernization: Reclaiming Time for Innovation<a href="https://markharrison.io/blog/technical-debt-v-innovation#app-modernization-reclaiming-time-for-innovation" class="hash-link" aria-label="Direct link to App Modernization: Reclaiming Time for Innovation" title="Direct link to App Modernization: Reclaiming Time for Innovation">​</a></h3>
 <p>App modernization is the key to reducing technical debt. By updating legacy systems and migrating to modern cloud-based architectures, teams can reclaim time and resources previously wasted on maintenance. This allows for a shift in focus toward innovation, enabling the development of new features, services, and business differentiators.</p>
