@@ -20,7 +20,7 @@
 <p>Technical debt refers to the accumulation of inefficiencies in a codebase or infrastructure that creates long-term maintenance problems. This debt prevents teams from moving quickly and can significantly impact productivity. Key causes include:</p>
 <ul>
 <li><strong>Messy, Unmanaged Codebases</strong>: Poorly organized or outdated code can lead to frequent bugs, making it difficult to extend the application with new features.</li>
-<li><strong>Loss of Knowledge</strong>: Developers who originally built the system may no longer be around, leaving the current team to deal with undocumented code, which hampers problem-solving.</li>
+<li><strong>Lack of Knowledge</strong>: Developers who originally built the system may no longer be around, leaving the current team to deal with undocumented code, which hampers problem-solving.</li>
 <li><strong>Outdated Technology</strong>: Sticking with old frameworks, libraries, or operating systems increases security risks and makes future updates challenging as owner support dwindles.</li>
 <li><strong>On-Premise Infrastructure</strong>: Managing on-prem hardware requires constant attention—patching systems, securing networks, and maintaining backups.</li>
 </ul>
