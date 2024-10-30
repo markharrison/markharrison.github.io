@@ -30,7 +30,7 @@
 <p>Eliminating technical debt allows teams to shift their focus from "keeping the lights on" to driving real innovation. Here’s how removing debt can help:</p>
 <ul>
 <li><strong>Faster Feature Development</strong>: With a clean and modern codebase, developers can more easily add new functionality, improving time-to-market for new features.</li>
-<li><strong>Improved Resilience and Scalability</strong>: Modernizing outdated technology removes vulnerabilities and reduces downtime, giving teams confidence to innovate without fearing breakdowns.</li>
+<li><strong>Improved Resilience</strong>: Modernizing outdated technology removes vulnerabilities and reduces downtime, giving teams confidence to innovate without fearing breakdowns.</li>
 <li><strong>Cloud-Native Transformation</strong>: Moving to the cloud using serverless or cloud-native technologies reduces the burden of infrastructure management and delivers scalable, cost-efficient software.</li>
 <li><strong>Proven Tools and Frameworks</strong>: By adopting up-to-date libraries, SDKs, and frameworks, teams can leverage modern, secure solutions that are actively maintained. This reduces the time spent on problems that have already been solved elsewhere.</li>
 <li><strong>Automation and Left-Shift Security</strong>: Implementing platform engineering and DevSecOps practices ensures that teams can streamline operations, automate repetitive tasks, and integrate security throughout the development cycle. This accelerates delivery, reduces errors, and enables the development of higher-quality software.</li>
