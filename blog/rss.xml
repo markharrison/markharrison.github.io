@@ -4,10 +4,31 @@
         <title>Mark Harrison Blog</title>
         <link>https://markharrison.io/blog</link>
         <description>Mark Harrison Blog</description>
-        <lastBuildDate>Wed, 30 Oct 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Building Agentic AI Apps]]></title>
+            <link>https://markharrison.io/blog/building-agentic-ai-apps</link>
+            <guid>https://markharrison.io/blog/building-agentic-ai-apps</guid>
+            <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[agentic-ai]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="agentic-ai" src="https://markharrison.io/assets/images/agenticai-68e9547c129a7fda7e133685dfdd8afd.png" width="1575" height="394" class="img_ev3q"></p>
+<p>Sharing a recent session where I discussed:</p>
+<ul>
+<li>AI Agents vs. Agentic AI – similar names, different concepts</li>
+<li>The evolution of AI Agents – autonomy as the new frontier</li>
+<li>AI in software development – building software with AI | building AI into software</li>
+<li>Intelligence as the new baseline for modern apps</li>
+<li>Intelligent App Architecture</li>
+<li>AI Services: foundation models, semantic search, embeddings, cognitive services</li>
+<li>Semantic Kernel vs. AutoGen</li>
+<li>Azure AI Foundry: Azure’s comprehensive AI toolchain</li>
+</ul>
+<p><a href="https://www.youtube.com/watch?v=teaEdQFT084" target="_blank" rel="noopener noreferrer">On-demand video</a></p>]]></content:encoded>
+            <category>appdev</category>
+        </item>
         <item>
             <title><![CDATA[Technical Debt v Innovation]]></title>
             <link>https://markharrison.io/blog/technical-debt-v-innovation</link>

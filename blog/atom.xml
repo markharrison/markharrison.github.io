@@ -2,11 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://markharrison.io/blog</id>
     <title>Mark Harrison Blog</title>
-    <updated>2024-10-30T00:00:00.000Z</updated>
+    <updated>2025-03-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://markharrison.io/blog"/>
     <subtitle>Mark Harrison Blog</subtitle>
     <icon>https://markharrison.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Building Agentic AI Apps]]></title>
+        <id>https://markharrison.io/blog/building-agentic-ai-apps</id>
+        <link href="https://markharrison.io/blog/building-agentic-ai-apps"/>
+        <updated>2025-03-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[agentic-ai]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="agentic-ai" src="https://markharrison.io/assets/images/agenticai-68e9547c129a7fda7e133685dfdd8afd.png" width="1575" height="394" class="img_ev3q"></p>
+<p>Sharing a recent session where I discussed:</p>
+<ul>
+<li>AI Agents vs. Agentic AI – similar names, different concepts</li>
+<li>The evolution of AI Agents – autonomy as the new frontier</li>
+<li>AI in software development – building software with AI | building AI into software</li>
+<li>Intelligence as the new baseline for modern apps</li>
+<li>Intelligent App Architecture</li>
+<li>AI Services: foundation models, semantic search, embeddings, cognitive services</li>
+<li>Semantic Kernel vs. AutoGen</li>
+<li>Azure AI Foundry: Azure’s comprehensive AI toolchain</li>
+</ul>
+<p><a href="https://www.youtube.com/watch?v=teaEdQFT084" target="_blank" rel="noopener noreferrer">On-demand video</a></p>]]></content>
+        <author>
+            <name>Mark Harrison</name>
+            <uri>https://github.com/markharrison</uri>
+        </author>
+        <category label="appdev" term="appdev"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Technical Debt v Innovation]]></title>
         <id>https://markharrison.io/blog/technical-debt-v-innovation</id>
