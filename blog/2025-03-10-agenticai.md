@@ -21,3 +21,5 @@ Sharing a recent session where I discussed:
 - Azure AI Foundry: Azure’s comprehensive AI toolchain
 
 [On-demand video](https://www.youtube.com/watch?v=teaEdQFT084)
+
+[Transcript](https://markharrison.io/doc-agentic-ai-apps)
