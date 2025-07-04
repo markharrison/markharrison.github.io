@@ -4,10 +4,27 @@
         <title>Mark Harrison Blog</title>
         <link>https://markharrison.io/blog</link>
         <description>Mark Harrison Blog</description>
-        <lastBuildDate>Mon, 10 Mar 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Jul 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Model Context Protocol]]></title>
+            <link>https://markharrison.io/blog/model-context-protocol</link>
+            <guid>https://markharrison.io/blog/model-context-protocol</guid>
+            <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[agentic-ai]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="agentic-ai" src="https://markharrison.io/assets/images/mcp-59247f1cbf59addc8b373c0f69ada40e.png" width="2000" height="500" class="img_ev3q"></p>
+<p>Sharing a recent session where I discussed the Model Context Protocol, and covered:</p>
+<ul>
+<li>Why is there a need for MCP</li>
+<li>What MCP is, including its architecture and core components</li>
+<li>A demo of MCP — including how to configure it so anyone can run it</li>
+<li>An example of how to develop an MCP server — a potential starter project for connecting to your own knowledge resources</li>
+</ul>
+<p><a href="https://markharrison.io/doc-mcp" target="_blank" rel="noopener noreferrer">Transcript</a></p>]]></content:encoded>
+            <category>appdev</category>
+        </item>
         <item>
             <title><![CDATA[Building Agentic AI Apps]]></title>
             <link>https://markharrison.io/blog/building-agentic-ai-apps</link>
