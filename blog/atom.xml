@@ -16,12 +16,12 @@
         <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="agentic-ai" src="https://markharrison.io/assets/images/mcp-59247f1cbf59addc8b373c0f69ada40e.png" width="2000" height="500" class="img_ev3q"></p>
 <p>Sharing a recent session where I discussed the Model Context Protocol, and covered:</p>
 <ul>
-<li>Why is there a need for MCP</li>
-<li>What MCP is, including its architecture and core components</li>
-<li>A demo of MCP — including how to configure it so anyone can run it</li>
-<li>An example of how to develop an MCP server — a potential starter project for connecting to your own knowledge resources</li>
+<li class="">Why is there a need for MCP</li>
+<li class="">What MCP is, including its architecture and core components</li>
+<li class="">A demo of MCP — including how to configure it so anyone can run it</li>
+<li class="">An example of how to develop an MCP server — a potential starter project for connecting to your own knowledge resources</li>
 </ul>
-<p><a href="https://markharrison.io/doc-mcp" target="_blank" rel="noopener noreferrer">Transcript</a>  | <a href="https://techcommunity.microsoft.com/blog/appsonazureblog/smart-ai-integration-with-the-model-context-protocol-mcp-part-1/4430385" target="_blank" rel="noopener noreferrer">Microsoft Blog</a></p>]]></content>
+<p><a href="https://markharrison.io/doc-mcp" target="_blank" rel="noopener noreferrer" class="">Transcript</a>  | <a href="https://techcommunity.microsoft.com/blog/appsonazureblog/smart-ai-integration-with-the-model-context-protocol-mcp-part-1/4430385" target="_blank" rel="noopener noreferrer" class="">Microsoft Blog</a></p>]]></content>
         <author>
             <name>Mark Harrison</name>
             <uri>https://github.com/markharrison</uri>
@@ -37,17 +37,17 @@
         <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="agentic-ai" src="https://markharrison.io/assets/images/agenticai-68e9547c129a7fda7e133685dfdd8afd.png" width="1575" height="394" class="img_ev3q"></p>
 <p>Sharing a recent session where I discussed:</p>
 <ul>
-<li>AI Agents vs. Agentic AI – similar names, different concepts</li>
-<li>The evolution of AI Agents – autonomy as the new frontier</li>
-<li>AI in software development – building software with AI | building AI into software</li>
-<li>Intelligence as the new baseline for modern apps</li>
-<li>Intelligent App Architecture</li>
-<li>AI Services: foundation models, semantic search, embeddings, cognitive services</li>
-<li>Semantic Kernel vs. AutoGen</li>
-<li>Azure AI Foundry: Azure’s comprehensive AI toolchain</li>
+<li class="">AI Agents vs. Agentic AI – similar names, different concepts</li>
+<li class="">The evolution of AI Agents – autonomy as the new frontier</li>
+<li class="">AI in software development – building software with AI | building AI into software</li>
+<li class="">Intelligence as the new baseline for modern apps</li>
+<li class="">Intelligent App Architecture</li>
+<li class="">AI Services: foundation models, semantic search, embeddings, cognitive services</li>
+<li class="">Semantic Kernel vs. AutoGen</li>
+<li class="">Azure AI Foundry: Azure’s comprehensive AI toolchain</li>
 </ul>
-<p><a href="https://www.youtube.com/watch?v=teaEdQFT084" target="_blank" rel="noopener noreferrer">On-demand video</a></p>
-<p><a href="https://markharrison.io/doc-agentic-ai-apps" target="_blank" rel="noopener noreferrer">Transcript</a></p>]]></content>
+<p><a href="https://www.youtube.com/watch?v=teaEdQFT084" target="_blank" rel="noopener noreferrer" class="">On-demand video</a></p>
+<p><a href="https://markharrison.io/doc-agentic-ai-apps" target="_blank" rel="noopener noreferrer" class="">Transcript</a></p>]]></content>
         <author>
             <name>Mark Harrison</name>
             <uri>https://github.com/markharrison</uri>
@@ -61,29 +61,29 @@
         <updated>2024-10-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[technical-debt]]></summary>
         <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="technical-debt" src="https://markharrison.io/assets/images/tugofwar-a0a43ecc49d8e869d9e3f286ae97c277.jpg" width="1575" height="445" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="its-a-tug-of-war-over-finite-time-and-resources">Its a tug of war over finite time and resources<a href="https://markharrison.io/blog/technical-debt-v-innovation#its-a-tug-of-war-over-finite-time-and-resources" class="hash-link" aria-label="Direct link to Its a tug of war over finite time and resources" title="Direct link to Its a tug of war over finite time and resources">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="its-a-tug-of-war-over-finite-time-and-resources">Its a tug of war over finite time and resources<a href="https://markharrison.io/blog/technical-debt-v-innovation#its-a-tug-of-war-over-finite-time-and-resources" class="hash-link" aria-label="Direct link to Its a tug of war over finite time and resources" title="Direct link to Its a tug of war over finite time and resources" translate="no">​</a></h2>
 <p>Technical debt slows teams down, making it harder to innovate. Removing technical debt is crucial for freeing up resources and allowing developers to focus on building value-driven solutions that drive business growth.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="technical-debt-a-barrier-to-progress">Technical Debt: A Barrier to Progress<a href="https://markharrison.io/blog/technical-debt-v-innovation#technical-debt-a-barrier-to-progress" class="hash-link" aria-label="Direct link to Technical Debt: A Barrier to Progress" title="Direct link to Technical Debt: A Barrier to Progress">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="technical-debt-a-barrier-to-progress">Technical Debt: A Barrier to Progress<a href="https://markharrison.io/blog/technical-debt-v-innovation#technical-debt-a-barrier-to-progress" class="hash-link" aria-label="Direct link to Technical Debt: A Barrier to Progress" title="Direct link to Technical Debt: A Barrier to Progress" translate="no">​</a></h3>
 <p>Technical debt refers to the accumulation of inefficiencies in a codebase or infrastructure that creates long-term maintenance problems. This debt prevents teams from moving quickly and can significantly impact productivity. Key causes include:</p>
 <ul>
-<li><strong>Messy, Unmanaged Codebases</strong>: Poorly organized or outdated code can lead to frequent bugs, making it difficult to extend the application with new features.</li>
-<li><strong>Lack of Knowledge</strong>: Developers who originally built the system may no longer be around, leaving the current team to deal with undocumented code, which hampers problem-solving.</li>
-<li><strong>Outdated Technology</strong>: Sticking with old frameworks, libraries, or operating systems increases security risks and makes future updates challenging as owner support dwindles.</li>
-<li><strong>On-Premise Infrastructure</strong>: Managing on-prem hardware requires constant attention—patching systems, securing networks, and maintaining backups.</li>
+<li class=""><strong>Messy, Unmanaged Codebases</strong>: Poorly organized or outdated code can lead to frequent bugs, making it difficult to extend the application with new features.</li>
+<li class=""><strong>Lack of Knowledge</strong>: Developers who originally built the system may no longer be around, leaving the current team to deal with undocumented code, which hampers problem-solving.</li>
+<li class=""><strong>Outdated Technology</strong>: Sticking with old frameworks, libraries, or operating systems increases security risks and makes future updates challenging as owner support dwindles.</li>
+<li class=""><strong>On-Premise Infrastructure</strong>: Managing on-prem hardware requires constant attention—patching systems, securing networks, and maintaining backups.</li>
 </ul>
 <p>These factors drain time and energy, forcing teams to focus on maintenance instead of moving the organisation forward.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="clearing-technical-debt-to-unlock-innovation">Clearing Technical Debt to Unlock Innovation<a href="https://markharrison.io/blog/technical-debt-v-innovation#clearing-technical-debt-to-unlock-innovation" class="hash-link" aria-label="Direct link to Clearing Technical Debt to Unlock Innovation" title="Direct link to Clearing Technical Debt to Unlock Innovation">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="clearing-technical-debt-to-unlock-innovation">Clearing Technical Debt to Unlock Innovation<a href="https://markharrison.io/blog/technical-debt-v-innovation#clearing-technical-debt-to-unlock-innovation" class="hash-link" aria-label="Direct link to Clearing Technical Debt to Unlock Innovation" title="Direct link to Clearing Technical Debt to Unlock Innovation" translate="no">​</a></h3>
 <p>Eliminating technical debt allows teams to shift their focus from "keeping the lights on" to driving real innovation. Here’s how removing debt can help:</p>
 <ul>
-<li><strong>Faster Feature Development</strong>: With a clean and modern codebase, developers can more easily add new functionality, improving time-to-market for new features.</li>
-<li><strong>Improved Resilience</strong>: Modernizing outdated technology removes vulnerabilities and reduces downtime, giving teams confidence to innovate without fearing breakdowns.</li>
-<li><strong>Cloud-Native Transformation</strong>: Moving to the cloud using serverless or cloud-native technologies reduces the burden of infrastructure management and delivers scalable, cost-efficient software.</li>
-<li><strong>Proven Tools and Frameworks</strong>: By adopting up-to-date libraries, SDKs, and frameworks, teams can leverage modern, secure solutions that are actively maintained. This reduces the time spent on problems that have already been solved elsewhere.</li>
-<li><strong>Automation and Left-Shift Security</strong>: Implementing platform engineering and DevSecOps practices ensures that teams can streamline operations, automate repetitive tasks, and integrate security throughout the development cycle. This accelerates delivery, reduces errors, and enables the development of higher-quality software.</li>
+<li class=""><strong>Faster Feature Development</strong>: With a clean and modern codebase, developers can more easily add new functionality, improving time-to-market for new features.</li>
+<li class=""><strong>Improved Resilience</strong>: Modernizing outdated technology removes vulnerabilities and reduces downtime, giving teams confidence to innovate without fearing breakdowns.</li>
+<li class=""><strong>Cloud-Native Transformation</strong>: Moving to the cloud using serverless or cloud-native technologies reduces the burden of infrastructure management and delivers scalable, cost-efficient software.</li>
+<li class=""><strong>Proven Tools and Frameworks</strong>: By adopting up-to-date libraries, SDKs, and frameworks, teams can leverage modern, secure solutions that are actively maintained. This reduces the time spent on problems that have already been solved elsewhere.</li>
+<li class=""><strong>Automation and Left-Shift Security</strong>: Implementing platform engineering and DevSecOps practices ensures that teams can streamline operations, automate repetitive tasks, and integrate security throughout the development cycle. This accelerates delivery, reduces errors, and enables the development of higher-quality software.</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="app-modernization-reclaiming-time-for-innovation">App Modernization: Reclaiming Time for Innovation<a href="https://markharrison.io/blog/technical-debt-v-innovation#app-modernization-reclaiming-time-for-innovation" class="hash-link" aria-label="Direct link to App Modernization: Reclaiming Time for Innovation" title="Direct link to App Modernization: Reclaiming Time for Innovation">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="app-modernization-reclaiming-time-for-innovation">App Modernization: Reclaiming Time for Innovation<a href="https://markharrison.io/blog/technical-debt-v-innovation#app-modernization-reclaiming-time-for-innovation" class="hash-link" aria-label="Direct link to App Modernization: Reclaiming Time for Innovation" title="Direct link to App Modernization: Reclaiming Time for Innovation" translate="no">​</a></h3>
 <p>App modernization is the key to reducing technical debt. By updating legacy systems and migrating to modern cloud-based architectures, teams can reclaim time and resources previously wasted on maintenance. This allows for a shift in focus toward innovation, enabling the development of new features, services, and business differentiators.</p>
-<p><a href="https://raw.githubusercontent.com/markharrison/markharrison.github.io/main/blog/images/techdebt.jpg" target="_blank" rel="noopener noreferrer">Graphic</a></p>]]></content>
+<p><a href="https://raw.githubusercontent.com/markharrison/markharrison.github.io/main/blog/images/techdebt.jpg" target="_blank" rel="noopener noreferrer" class="">Graphic</a></p>]]></content>
         <author>
             <name>Mark Harrison</name>
             <uri>https://github.com/markharrison</uri>
@@ -102,7 +102,7 @@
 <p>To streamline adoption and ensure successful outcomes, there's a growing need for well-defined paths to follow—what some call "paved paths to success". These paths provide developers with proven methodologies, recommended practices, and predefined configurations that simplify initial setup and guide ongoing development.</p>
 <p>.NET Aspire is designed to enhance the development of .NET cloud-native apps. It offers a consistent and opinionated set of tools and patterns to streamline the building and running of distributed applications.</p>
 <p>I have written a hands-on-lab to try out .NET Aspire.</p>
-<p><a href="https://markharrison.io/lab-dotnet-aspire/" target="_blank" rel="noopener noreferrer">Read here</a></p>]]></content>
+<p><a href="https://markharrison.io/lab-dotnet-aspire/" target="_blank" rel="noopener noreferrer" class="">Read here</a></p>]]></content>
         <author>
             <name>Mark Harrison</name>
             <uri>https://github.com/markharrison</uri>
@@ -118,7 +118,7 @@
         <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="platformengineering" src="https://markharrison.io/assets/images/platformengineering-d0fe9708791c8e40bb4a5f1deb6a44fe.png" width="1575" height="394" class="img_ev3q"></p>
 <p>Gartner predicts that by 2026, 80% of large software engineering organizations will have established platform engineering teams. But, some critics argue that Platform Engineering presents few new ideas, contending it's merely a rebranding of concepts that have been around for some time, with good marketing making it appear cool.</p>
 <p>So divergent perspectives - lets take a look at this evolving domain and see how it will (supposedly) empower developers ...</p>
-<p><a href="https://markharrison.io/doc-platform-engineering/" target="_blank" rel="noopener noreferrer">Read here</a></p>]]></content>
+<p><a href="https://markharrison.io/doc-platform-engineering/" target="_blank" rel="noopener noreferrer" class="">Read here</a></p>]]></content>
         <author>
             <name>Mark Harrison</name>
             <uri>https://github.com/markharrison</uri>
@@ -135,7 +135,7 @@
 <p>GitHub Copilot is your AI pair programmer. It uses the OpenAI Codex to suggest code and entire functions in real-time, from within the editor.</p>
 <p>Trained on billions of lines of code, GitHub Copilot turns natural language prompts into coding suggestions across dozens of languages.</p>
 <p>I have written a hands-on-lab to try out GitHub Copilot.</p>
-<p><a href="https://markharrison.io/lab-github-copilot" target="_blank" rel="noopener noreferrer">Read here</a></p>]]></content>
+<p><a href="https://markharrison.io/lab-github-copilot" target="_blank" rel="noopener noreferrer" class="">Read here</a></p>]]></content>
         <author>
             <name>Mark Harrison</name>
             <uri>https://github.com/markharrison</uri>
@@ -150,7 +150,7 @@
         <summary type="html"><![CDATA[visualstudio]]></summary>
         <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="visualstudio" src="https://markharrison.io/assets/images/visualstudio-20bdcb12662daa5d66e740381c9dd9e7.png" width="1914" height="442" class="img_ev3q"></p>
 <p>Customers who have Enterprise Agreements (EA) with Microsoft are eligible to purchase a subscription offer that brings together Visual Studio standard subscriptions and GitHub Enterprise. It's the easy and economical way for Visual Studio subscribers to acquire GitHub Enterprise.</p>
-<p><a href="https://markharrison.io/faq-visualstudio/eabenefits" target="_blank" rel="noopener noreferrer">Read here</a></p>]]></content>
+<p><a href="https://markharrison.io/faq-visualstudio/eabenefits" target="_blank" rel="noopener noreferrer" class="">Read here</a></p>]]></content>
         <author>
             <name>Mark Harrison</name>
             <uri>https://github.com/markharrison</uri>
@@ -167,7 +167,7 @@
 <p>Announced at the Microsoft Build Conference was the general availability of Azure Container Apps.</p>
 <p>This is a fully managed serverless container service for building and deploying modern apps at scale, and empowers developers to focus on the business logic of their apps rather than on cloud infrastructure management.</p>
 <p>I have written a hands-on-lab to try out Azure Container Apps.</p>
-<p><a href="https://markharrison.io/lab-azure-container-apps" target="_blank" rel="noopener noreferrer">Read here</a></p>]]></content>
+<p><a href="https://markharrison.io/lab-azure-container-apps" target="_blank" rel="noopener noreferrer" class="">Read here</a></p>]]></content>
         <author>
             <name>Mark Harrison</name>
             <uri>https://github.com/markharrison</uri>
@@ -183,8 +183,8 @@
         <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="secapps" src="https://markharrison.io/assets/images/secapps-7f3d154bc249fadbd42a46b1ad6d3cd2.png" width="1575" height="394" class="img_ev3q"></p>
 <p>It was a pleasure to present 'Securing Applications' this week at Build UK.  Furthermore, it was fantastic to see so many people at Microsoft campus - and to know we are now back doing in-person events after the recent difficult and disruptive times.</p>
 <p>I have written up the content from the session.</p>
-<p><a href="https://markharrison.io/securing-applications" target="_blank" rel="noopener noreferrer">Read here</a> or <a href="https://cloudblogs.microsoft.com/industry-blog/en-gb/technetuk/2022/06/07/considerations-for-securing-your-applications/" target="_blank" rel="noopener noreferrer">Read here</a></p>
-<p><a href="https://www.youtube.com/watch?v=hfHHNclh8Do" target="_blank" rel="noopener noreferrer">On-demand video</a></p>]]></content>
+<p><a href="https://markharrison.io/securing-applications" target="_blank" rel="noopener noreferrer" class="">Read here</a> or <a href="https://cloudblogs.microsoft.com/industry-blog/en-gb/technetuk/2022/06/07/considerations-for-securing-your-applications/" target="_blank" rel="noopener noreferrer" class="">Read here</a></p>
+<p><a href="https://www.youtube.com/watch?v=hfHHNclh8Do" target="_blank" rel="noopener noreferrer" class="">On-demand video</a></p>]]></content>
         <author>
             <name>Mark Harrison</name>
             <uri>https://github.com/markharrison</uri>
@@ -199,8 +199,8 @@
         <summary type="html"><![CDATA[gse]]></summary>
         <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="gse" src="https://markharrison.io/assets/images/gse-64e5e60126e3b034508b2dcfc1682bcb.png" width="1575" height="394" class="img_ev3q"></p>
 <p>I recently presented ‘Green Software Engineering’ at a community event. A couple of days later the IPCC (Intergovernmental Panel on Climate Change) released a study that highlighted climate change is widespread, rapid, and intensifying, and some trends are now irreversible. The United Nations called it a “code red for humanity” and a catastrophe can only be avoided if the world acts fast.</p>
-<p><a href="https://cloudblogs.microsoft.com/industry-blog/en-gb/technetuk/2021/08/19/sustainability-and-green-software-engineering/" target="_blank" rel="noopener noreferrer">Read here</a></p>
-<p><a href="https://www.youtube.com/watch?v=Tcvr30NRWmA" target="_blank" rel="noopener noreferrer">On-demand video</a></p>]]></content>
+<p><a href="https://cloudblogs.microsoft.com/industry-blog/en-gb/technetuk/2021/08/19/sustainability-and-green-software-engineering/" target="_blank" rel="noopener noreferrer" class="">Read here</a></p>
+<p><a href="https://www.youtube.com/watch?v=Tcvr30NRWmA" target="_blank" rel="noopener noreferrer" class="">On-demand video</a></p>]]></content>
         <author>
             <name>Mark Harrison</name>
             <uri>https://github.com/markharrison</uri>
@@ -215,7 +215,7 @@
         <summary type="html"><![CDATA[appdevtrends]]></summary>
         <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="appdevtrends" src="https://markharrison.io/assets/images/appdevtrends-0eafc2c4cf6dfdc6253fa819299916dc.png" width="1575" height="394" class="img_ev3q"></p>
 <p>Hello! I’m a Microsoft UK Azure AppDev Specialist and below I’ll be sharing what I do and why I do it, as well as touch on the current AppDev trends I see and the themes that I’m frequently asked to cover.</p>
-<p><a href="https://markharrison.io/appdev-trends" target="_blank" rel="noopener noreferrer">Read here</a></p>]]></content>
+<p><a href="https://markharrison.io/appdev-trends" target="_blank" rel="noopener noreferrer" class="">Read here</a></p>]]></content>
         <author>
             <name>Mark Harrison</name>
             <uri>https://github.com/markharrison</uri>
@@ -229,8 +229,8 @@
         <updated>2021-01-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[- RSS Feed]]></summary>
         <content type="html"><![CDATA[<ul>
-<li><a href="https://markharrison.io/blog/rss.xml" target="_blank" rel="noopener noreferrer">RSS Feed</a></li>
-<li><a href="https://markharrison.io/blog/atom.xml" target="_blank" rel="noopener noreferrer">Atom Feed</a></li>
+<li class=""><a href="https://markharrison.io/blog/rss.xml" target="_blank" rel="noopener noreferrer" class="">RSS Feed</a></li>
+<li class=""><a href="https://markharrison.io/blog/atom.xml" target="_blank" rel="noopener noreferrer" class="">Atom Feed</a></li>
 </ul>]]></content>
     </entry>
 </feed>
