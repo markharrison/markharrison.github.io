@@ -15,6 +15,7 @@
         <summary type="html"><![CDATA[githubcopilot]]></summary>
         <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="githubcopilot" src="https://markharrison.uk/assets/images/githubcopilot-d23ae4a131a687ed1f0ca3e1121520af.png" width="1280" height="314" class="img_ev3q"></p>
 <p>A custom agent in GitHub Copilot is a user-defined agent described in a .agent.md markdown file that you place in your repository. It lets you create specialized, reusable AI assistants tailored to specific tasks or workflows.</p>
+<p>I have written a hands-on-lab to learn about creating GitHub Copilot Custom Agents.</p>
 <p><a href="https://markharrison.uk/lab-customagents/" target="_blank" rel="noopener noreferrer" class="">Lab - GitHub Copilot Custom Agents</a></p>]]></content>
         <author>
             <name>Mark Harrison</name>
