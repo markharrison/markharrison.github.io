@@ -10,4 +10,4 @@ date: 2024/2/24
 
 Customers who have Enterprise Agreements (EA) with Microsoft are eligible to purchase a subscription offer that brings together Visual Studio standard subscriptions and GitHub Enterprise. It's the easy and economical way for Visual Studio subscribers to acquire GitHub Enterprise.
 
-[Read here](https://markharrison.io/faq-visualstudio/eabenefits)
+[Read here](https://markharrison.uk/faq-visualstudio/eabenefits)

@@ -8,7 +8,6 @@ date: 2025/03/10
 
 ![agentic-ai](images/agenticai.png)
 
-
 Sharing a recent session where I discussed:
 
 - AI Agents vs. Agentic AI – similar names, different concepts
@@ -22,4 +21,4 @@ Sharing a recent session where I discussed:
 
 [On-demand video](https://www.youtube.com/watch?v=teaEdQFT084)
 
-[Transcript](https://markharrison.io/doc-agentic-ai-apps)
+[Transcript](https://markharrison.uk/doc-agentic-ai-apps)

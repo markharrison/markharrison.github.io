@@ -12,4 +12,4 @@ Gartner predicts that by 2026, 80% of large software engineering organizations w
 
 So divergent perspectives - lets take a look at this evolving domain and see how it will (supposedly) empower developers ...
 
-[Read here](https://markharrison.io/doc-platform-engineering/)
+[Read here](https://markharrison.uk/doc-platform-engineering/)

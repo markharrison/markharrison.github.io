@@ -18,4 +18,4 @@ To streamline adoption and ensure successful outcomes, there's a growing need fo
 
 I have written a hands-on-lab to try out .NET Aspire.
 
-[Read here](https://markharrison.io/lab-dotnet-aspire/)
+[Read here](https://markharrison.uk/lab-dotnet-aspire/)

@@ -14,4 +14,4 @@ Trained on billions of lines of code, GitHub Copilot turns natural language prom
 
 I have written a hands-on-lab to try out GitHub Copilot.
 
-[Read here](https://markharrison.io/lab-github-copilot)
+[Read here](https://markharrison.uk/lab-github-copilot)
