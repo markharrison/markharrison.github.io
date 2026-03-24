@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmarkharrison=globalThis.webpackChunkmarkharrison||[]).push([[8121],{8070(a){a.exports=JSON.parse('{"tags":[{"label":"appdev","permalink":"/blog/tags/appdev","count":12}]}')}}]);
